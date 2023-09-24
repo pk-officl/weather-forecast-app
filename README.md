@@ -7,4 +7,5 @@
 5. Open react-ui prpject in editor like VsCode.
 6. Give command "npm start" to run the ui.
 7. Now from ui can access the app.
-8. Note : If server port changed in application.properties means need to change the port in config.json of react-ui also for URL mapping
+   
+Note : If server port changed in application.properties means need to change the port in config.json of react-ui also for URL mapping
